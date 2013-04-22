@@ -1,0 +1,11 @@
+{
+    "name": "indexof-shim",
+    "version": "0.1.0",
+    "description": "Shims the indexOf method",
+    "author": "Florian Margaine <florian@margaine.com>",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ralt/indexof-shim"
+    }
+}
